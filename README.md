@@ -1,3 +1,9 @@
+# React Nanodegree Contact App Exercise
+
+This repo is what I followed the exercise project in the [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019). The description of the project is in the below part.
+<br>
+---
+
 # Contacts Project
 
 This repo is a code-along with the first project in the [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
